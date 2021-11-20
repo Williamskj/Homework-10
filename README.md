@@ -1,3 +1,4 @@
+Link to video: https://watch.screencastify.com/v/oNJ1UkroCkjsOfebKp3p
 # Team Profile Generator
 ## Table of Contents:
 
@@ -15,4 +16,4 @@ After doing all your npm installations, open an integrated terminal from the ind
 ## GitHub
 Williamskj
 ## E - mail
-wkeyann 
+wkeyann@gmail.com
